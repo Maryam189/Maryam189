@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Transformer Models.**
 
-- 🌱 I’m currently learning **MLOPs and Deep Learning and Generative AI.**
+- 🌱 I’m currently learning **MLOPs, Deep Learning and Generative AI.**
 
 - 💬 Ask me about **NodeJS, MERN,MEAN**
 
