@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm @Maryam189</h1>
 <h3 align="center">A passionate Front-End and Back-End Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maryam189&label=Profile%20views&color=0e75b6&style=flat" alt="maryam189" /> </p>
+<p align="left"> <img src="![1693911768596](https://github.com/Maryam189/Maryam189/assets/76420523/ec258bcc-60de-4cef-bdd2-2633adff787b)" alt="maryam189" /> </p>
+
 
 - 🔭 I’m currently working on **Transformer Models.**
 
