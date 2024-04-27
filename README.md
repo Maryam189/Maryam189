@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Transformer Models.**
 
-- 🎓 BS Computer Science Student at **Fast, National University Of Computer and Emerging Sciences**
+- 🎓 BS `Computer Science` Student at **Fast, National University Of Computer and Emerging Sciences**
 
 - 🌱 I’m currently focussing on **MLOPs, Deep Learning, and Generative AI.**
 
