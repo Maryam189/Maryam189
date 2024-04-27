@@ -1,10 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm @Maryam189</h1>
+<h1 align="center">Hi 👋, I'm Maryam Khalid</h1>
 <h3 align="center">A passionate Front-End and Back-End Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Transformer Models.**
 
-- 🌱 I’m currently learning **MLOPs, Deep Learning, and Generative AI.**
+- 🎓 BS Computer Science Student at **Fast, National University Of Computer and Emerging Sciences**
+
+- 🌱 I’m currently focussing on **MLOPs, Deep Learning, and Generative AI.**
 
 - 💬 Ask me about **NodeJS, MERN, MEAN.**
 
