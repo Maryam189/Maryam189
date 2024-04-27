@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: [Email](mailto:maryamkhalid590@gmail.com)
 
-- ⚡ Fun fact: **I achieved 3rd position in the BISE Rawalpindi Intermediate Examination in Computer Science and hold a full merit scholarship in Intermediate.**
+- ⚡ Fun fact: **I achieved `3rd position in the BISE Rawalpindi` Intermediate Examination in Computer Science and hold a full merit scholarship in Intermediate.**
 
 
 <h3 align="left">Connect with me:</h3>
