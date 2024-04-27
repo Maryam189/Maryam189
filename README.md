@@ -1,19 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm @Maryam189</h1>
-<h3 align="center">A passionate Front-End and Back-End Developer.</h3>
-
-<p align="left"> <img src="https://github.com/Maryam189/Maryam189/assets/76420523/ec258bcc-60de-4cef-bdd2-2633adff787b" alt="maryam189" /> </p>
-
+<h3 align="center">A passionate Front-End and Back-End Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Transformer Models.**
 
-- 🌱 I’m currently learning **MLOPs, Deep Learning and Generative AI.**
+- 🌱 I’m currently learning **MLOPs, Deep Learning, and Generative AI.**
 
-- 💬 Ask me about **NodeJS, MERN,MEAN**
+- 💬 Ask me about **NodeJS, MERN, MEAN.**
 
-- 📫 How to reach me **maryamkhalid590@gmail.com**
+- 📫 How to reach me: [Email](mailto:maryamkhalid590@gmail.com)
 
-- ⚡ Fun fact **I achieved 3rd position in the BISE Rawalpindi Intermediate Examination in Computer Science and hold a full merit scholarship in Intermediate.**
+- ⚡ Fun fact: **I achieved 3rd position in the BISE Rawalpindi Intermediate Examination in Computer Science and hold a full merit scholarship in Intermediate.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
