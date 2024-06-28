@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently focussing on **MLOPs, Deep Learning, and Generative AI.**
 
-- 💬 Ask me about **NodeJS, MERN, MEAN.**
+- 💬 Ask me about **C/C++, Databases, Python in Machine Learning.**
 
 - 📫 Here is my Portfolio: [Maryam Khalid's Portfolio](https://maryam189.github.io/MaryamKhalid.github.io/).
 
