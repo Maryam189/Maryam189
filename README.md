@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **NodeJS, MERN, MEAN.**
 
-- 📫 How to reach me: [Email](mailto:maryamkhalid590@gmail.com)
+- 📫 Here is my Portfolio: [Maryam Khalid's Portfolio](https://maryam189.github.io/MaryamKhalid.github.io/).
 
 - ⚡ Fun fact: **I achieved `3rd position in the BISE Rawalpindi` Intermediate Examination in Computer Science and hold a full merit scholarship in Intermediate.**
 
