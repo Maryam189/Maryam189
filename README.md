@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently focussing on **MLOPs, Deep Learning, and Generative AI.**
 
-- 💬 Ask me about **C/C++, Databases, Python in Machine Learning.**
+- 💬 Ask me about **C/C++ Data Structures, Databases, Python in Machine Learning.**
 
 - ⚡ Fun fact: **I achieved `3rd position in the BISE Rawalpindi` Intermediate Examination in Computer Science and hold a full merit scholarship in Intermediate.**
 
