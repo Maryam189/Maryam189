@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 I'm Maryam Khalid</h1>
-<h3 align="center">A passionate Front-End and Back-End Developer</h3>
+<h3 align="center">A professional Freenlancer with expertise in Full-Stack Development and Artificial Intelligence</h3>
 
 - 🔭 I’m currently working on **My Final Year Project based on Transformer Models.**
 
