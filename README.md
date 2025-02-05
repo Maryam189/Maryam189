@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Maryam Khalid</h1>
 <h3 align="center">A professional Freenlancer with expertise in Full-Stack Development and Artificial Intelligence</h3>
 
-- 🔭 I’m currently working on **My Final Year Project based on Transformer Models.**
+- 🔭 I’m currently working as **Lab Instructor at NUCES FAST Islamabad.**
 
 - 🎓 BS `Computer Science` Student at **Fast, National University Of Computer and Emerging Sciences**
 
