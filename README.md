@@ -6,9 +6,9 @@
 
 - 🎓 BS `Computer Science` Student at **Fast, National University Of Computer and Emerging Sciences**
 
-- 🌱 I’m currently focussing on **MLOPs, Deep Learning, and Generative AI.**
+- 🌱 I’m currently focussing on **Generative AI, NLP and Agentic AI**
 
-- 💬 Ask me about **C/C++ Data Structures, Databases, Python in Machine Learning.**
+- 💬 Ask me about **C/C++, Python in Machine Learning**
 
 - ⚡ Fun fact: **I achieved `3rd position in the BISE Rawalpindi` Intermediate Examination in Computer Science and hold a full merit scholarship in Intermediate.**
 
