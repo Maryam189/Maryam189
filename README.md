@@ -1,17 +1,18 @@
 
 <h1 align="center">Hi 👋 I'm Maryam Khalid</h1>
-<h3 align="center">A professional Freenlancer with expertise in Full-Stack Development and Artificial Intelligence</h3>
+<h3 align="center">
+AI Engineer | Full-Stack Developer | Generative AI & NLP Enthusiast
+</h3>
 
-- 🔭 I’m currently working as **Lab Instructor at NUCES FAST Islamabad.**
+- 🔭 I'm currently working as a Lab Instructor at FAST NUCES Islamabad while building AI-powered applications using LLMs and Agentic AI.
 
-- 🎓 BS `Computer Science` Student at **Fast, National University Of Computer and Emerging Sciences**
+- 🎓 BS Computer Science student at FAST National University of Computer and Emerging Sciences.
 
-- 🌱 I’m currently focussing on **Generative AI, NLP and Agentic AI**
+- 🌱 Currently exploring Generative AI, Large Language Models (LLMs), NLP, RAG, and Agentic AI.
 
-- 💬 Ask me about **C/C++, Python in Machine Learning**
+- 💬 Ask me about Python, Machine Learning, NLP, Generative AI, LLMs, and Full-Stack Development.
 
-- ⚡ Fun fact: **I achieved `3rd position in the BISE Rawalpindi` Intermediate Examination in Computer Science and hold a full merit scholarship in Intermediate.**
-
+- ⚡ Fun fact: My favorite way to learn a new technology is by building something with it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
